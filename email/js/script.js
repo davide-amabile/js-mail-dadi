@@ -13,8 +13,8 @@ for (var i = 0; i < listEmail.length; i++) {
   }
 }
 
-if (  mailSistema = true) {
+if (  mailSistema == true) {
   console.log("benvenuto");
-} else if ( mailSistema = false) {
+} else if ( mailSistema == false) {
   console.log("reinserisci l'email");
 }
