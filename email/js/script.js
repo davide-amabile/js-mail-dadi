@@ -9,7 +9,7 @@ var mailSistema = false;
 // controllare se l'email è nella listEmail
 for (var i = 0; i < listEmail.length; i++) {
   if (email === listEmail[i]) {
-   var  mailSistema = true;
+    mailSistema = true;
   }
 }
 
